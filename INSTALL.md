@@ -1,5 +1,5 @@
-##Lorem  
-##Ipsum
+## Lorem  
+## Ipsum
 
 Lorem ipsum dolor sit _amet_.  
 COnsetetur sadupscing **elitr**.  
